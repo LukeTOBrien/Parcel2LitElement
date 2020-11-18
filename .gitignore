@@ -1,3 +1,6 @@
+out/
+.parcel-cache/
+
 # Logs
 logs
 *.log
