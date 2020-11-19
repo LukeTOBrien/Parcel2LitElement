@@ -4,8 +4,6 @@ import { customElement } from "lit-element/lib/decorators";
 // Not for now
 // import styles from "./Widget1.less";
 
-//declare var $: any;
-
 @customElement('widget-one')
 export class WidgetOne extends LitElement {
     
